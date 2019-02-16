@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "396304597065",
+    "firebase_url": "https://apartment-therapy-marketplace.firebaseio.com",
+    "project_id": "apartment-therapy-marketplace",
+    "storage_bucket": "apartment-therapy-marketplace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396304597065:android:bf592ac49d036907",
+        "android_client_info": {
+          "package_name": "com.apartmenttherapy.marketplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396304597065-lfrol3af7q8htftebjn0pqb4h67eonsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfecRvbM1lCtkNSgjzCJmMCWsGagfDxe0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
